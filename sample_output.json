@@ -1,206 +1,266 @@
 {
-  "status": "ok",
-  "totalResults": 37,
-  "articles": [
-    {
-      "source": { "id": "cnn", "name": "CNN" },
-      "author": "Betsy Klein",
-      "title": "Biden and NATO leaders enter summit with a show of force as Turkey agrees to Sweden’s membership - CNN",
-      "description": "President Joe Biden and alliance leaders enter the first day of the high-stakes NATO Summit Tuesday with a reinvigorated sense of unity after a major win on Monday evening when Turkey agreed to Sweden’s bid to join the alliance.",
-      "url": "https://www.cnn.com/2023/07/11/politics/joe-biden-nato-summit-day-1/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230710125028-06-biden-lithuania-071023.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-07-11T08:17:00Z",
-      "content": "President Joe Biden and alliance leaders enter the first day of the high-stakes NATO Summit Tuesday with a reinvigorated sense of unity after a major win on Monday evening when Turkey agreed to Swede… [+7932 chars]"
-    },
-    {
-      "source": { "id": "the-washington-post", "name": "The Washington Post" },
-      "author": "Emily Rauhala, Michael Birnbaum, Meryl Kornfield, Toluse Olorunnipa, Niha Masih, Annabelle Timsit",
-      "title": "Russia-Ukraine war live updates: Ukraine tops NATO summit agenda after Turkey backs Sweden's membership - The Washington Post",
-      "description": "The summit is a show of Western unity against Russia — but there are divisions over Kyiv’s candidacy and the U.S. decision to supply it with cluster munitions.",
-      "url": "https://www.washingtonpost.com/world/2023/07/11/ukraine-nato-summit-2023-sweden/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4XKV5OI3A2LS6O37OE4SBNTM2A.jpg&w=1440",
-      "publishedAt": "2023-07-11T07:23:39Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "The Athletic" },
-      "author": "Brian Hamilton and The Athletic Staff",
-      "title": "Northwestern fires coach Pat Fitzgerald amid fallout from hazing investigation - The Athletic",
-      "description": "Fitzgerald was initially suspended for two weeks after a summary of the investigation’s findings were made public Friday.",
-      "url": "https://theathletic.com/4681232/2023/07/10/northwestern-fires-pat-fitzgerald/",
-      "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/06/25023753/USATSI_17155497-scaled.jpg",
-      "publishedAt": "2023-07-11T07:11:54Z",
-      "content": "Northwestern has fired football coach Pat Fitzgerald amid fallout from the universitys investigation into hazing allegations within the football program, university president Michael Schill said in a… [+6937 chars]"
-    },
-    {
-      "source": { "id": null, "name": "MLB.com" },
-      "author": "Theo DeRosa, Brent Maguire",
-      "title": "2023 Home Run Derby results - MLB.com",
-      "description": "A two-time Home Run Derby champ, the son of a Derby champ, a hometown hero, an MVP, a native Northwesterner and a trio of Cuban countrymen launched majestic dingers into the night at T-Mobile Park on Monday, but only one of them came away with a trophy.\nIn th…",
-      "url": "https://www.mlb.com/news/2023-home-run-derby-results",
-      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/f9fua6p8r3hupddbgqfi.jpg",
-      "publishedAt": "2023-07-11T06:49:31Z",
-      "content": "A two-time Home Run Derby champ, the son of a Derby champ, a hometown hero, an MVP, a native Northwesterner and a trio of Cuban countrymen launched majestic dingers into the night at T-Mobile Park on… [+8552 chars]"
-    },
-    {
-      "source": { "id": "reuters", "name": "Reuters" },
-      "author": "Amanda Cooper",
-      "title": "Asian shares rise as investors eye end to Fed hikes, China stimulus - Reuters",
-      "description": "Global shares rose and the dollar eased on Tuesday ahead of U.S. inflation data that could support a quicker end to Federal Reserve rate hikes, while the prospect of China propping up economic growth helped lift commodities like oil and copper.",
-      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-07-11/",
-      "urlToImage": "https://www.reuters.com/resizer/e8hP75e8ePmSa3BLJUFf6Q9rkTs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FGDXGG5N3BLHXOHLIMUKNDBVOI.jpg",
-      "publishedAt": "2023-07-11T06:04:11Z",
-      "content": "LONDON, July 11 (Reuters) - Global shares rose and the dollar eased on Tuesday ahead of U.S. inflation data that could support a quicker end to Federal Reserve rate hikes, while the prospect of China… [+3562 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CNBC" },
-      "author": "Lim Hui Jie",
-      "title": "Chinese real estate stocks rise as Beijing extends property support measures - CNBC",
-      "description": "The move encourages financial institutions to continue deferring loan payments, while propping up financial support for real estate enterprises",
-      "url": "https://www.cnbc.com/2023/07/11/chinese-real-estate-property-support-measures-extended-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107202043-1677727685271-gettyimages-1235596869-CHINA_CONSTRUCTION.jpeg?v=1689053951&w=1920&h=1080",
-      "publishedAt": "2023-07-11T05:39:11Z",
-      "content": "Reaction from Chinese banks were muted. Hong Kong-listed shares of China Construction Bank were flat, ICBC was up 0.28% and Bank of China also flat.\r\nIn November, China's financial authorities rolled… [+407 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Suntimes.com" },
-      "author": "Georgia Nicols",
-      "title": "Horoscope for Tuesday, July 11, 2023 - Chicago Sun-Times",
-      "description": null,
-      "url": "https://chicago.suntimes.com/2023/7/11/23785089/horoscopes-today-tuesday-july-11-2023",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/7575533/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FA_QqY0IMxIK37mBnD4OPUq0hlZs%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24772049%2FGeorgia_mug.jpeg",
-      "publishedAt": "2023-07-11T05:01:41Z",
-      "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Taurus.\r\nAries (March 21-April 19)\r\nThis is a great day to make money! Trust your ability to boost your earnin… [+3840 chars]"
-    },
-    {
-      "source": { "id": "independent", "name": "Independent" },
-      "author": "Andrew Feinberg",
-      "title": "Awkward moment as King Charles appears to snap at Biden’s chat with Windsor Castle guard - The Independent",
-      "description": "US president also appeared to breach royal protocol by touching the King’s back during his one-day trip to London",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/biden-king-charles-sunak-windsor-guard-b2372913.html",
-      "urlToImage": "https://static.independent.co.uk/2023/07/10/18/2023-07-10T123619Z_600082000_RC2B02ATPHC0_RTRMADP_3_USA-BIDEN-BRITAIN-KING.JPG?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-07-11T04:12:04Z",
-      "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nPresident Joe Biden on Monday caused a stir when he appe… [+4147 chars]"
-    },
-    {
-      "source": { "id": null, "name": "Internet" },
-      "author": "https://www.facebook.com/thehackernews",
-      "title": "Apple Issues Urgent Patch for Zero-Day Flaw Targeting iOS, iPadOS, macOS, and Safari - The Hacker News",
-      "description": "Apple just released critical updates to combat an actively exploited zero-day flaw. Update to iOS 16.5.1 (a), iPadOS 16.5.1 (a), macOS Ventura 13.",
-      "url": "https://thehackernews.com/2023/07/apple-issues-urgent-patch-for-zero-day.html",
-      "urlToImage": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEja3YE3dmriTKf2pNIkKJGzit1FkP1qkD0tC2Pe4yAWJYjhG1WeOeArPNRFhHnprsrfhQrtiuaPprKGCXmXnI7VRTs-rydQk4sXYDRNAnoVfr8UjX0-HSCl5iVSdGG-5CL4Uap36YSDwrOqCWGh-sfnVrV5_mke3QhtCz9qIYIcqWjSZZXRMRAu2OCQkS3i/s728-e365/apple.jpg",
-      "publishedAt": "2023-07-11T04:08:00Z",
-      "content": "Apple has released Rapid Security Response updates for iOS, iPadOS, macOS, and Safari web browser to address a zero-day flaw that it said has been actively exploited in the wild.\r\nThe WebKit bug, cat… [+1571 chars]"
-    },
-    {
-      "source": { "id": null, "name": "CBS Sports" },
-      "author": "",
-      "title": "2023 MLB Draft tracker, results: Full list of every pick, baseball draft analysis with 10 rounds complete - CBS Sports",
-      "description": "Ten rounds and 314 picks are in the books in the 2023 MLB Draft; see all of those selections right here",
-      "url": "https://www.cbssports.com/mlb/news/2023-mlb-draft-tracker-results-full-list-of-every-pick-baseball-draft-analysis-with-10-rounds-complete/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/10/b594c2b7-78da-40c2-b5db-33f5fb52af7a/thumbnail/1200x675/566f55d0a4f1a9670ef0cfb98fa412ec/mlb-draft-logo-getty-2.png",
-      "publishedAt": "2023-07-11T04:03:00Z",
-      "content": "The 2023 MLB Draft continued Monday with Rounds 3-10. The draft is now halfway complete with 314 picks in the books. Things started on Sunday night with the first two rounds (a total of 70 picks), an… [+18887 chars]"
-    },
-    {
-      "source": { "id": "reuters", "name": "Reuters" },
-      "author": "Brendan O'Brien, Rich Mckay",
-      "title": "Flash floods rage in Vermont, New York; 50 rescued by swift boat - Reuters",
-      "description": "Torrential downpours unleashed flash floods on the U.S. Northeast on Monday that washed out roadways, overwhelmed rivers, prompted 50 swift boat rescues and killed a woman who was swept away in front of her fiancé, officials said.",
-      "url": "https://www.reuters.com/world/us/heavy-rains-wash-across-us-northeast-catastrophic-flooding-possible-2023-07-10/",
-      "urlToImage": "https://www.reuters.com/resizer/0C5oOxOSYDQgWJh44yCO6ozVbnE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3AY2VXVE6NPSPFN4TD4Y5OQTME.jpg",
-      "publishedAt": "2023-07-11T03:59:00Z",
-      "content": "July 10 (Reuters) - Torrential downpours unleashed flash floods on the U.S. Northeast on Monday that washed out roadways, overwhelmed rivers, prompted 50 swift boat rescues and killed a woman who was… [+3260 chars]"
-    },
-    {
-      "source": { "id": "usa-today", "name": "USA Today" },
-      "author": ", USA TODAY",
-      "title": "New York flooding, warnings for New England: Weather forecast Monday - USA TODAY",
-      "description": "Residents from North Carolina to New Hampshire can expect heavy rains on Monday, with a risk of flooding and severe thunderstorms.",
-      "url": "https://www.usatoday.com/story/news/weather/2023/07/10/monday-weather-updates/70395913007/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/18/USAT/5bd895c2-7d2e-4723-b250-984ea60b63bf-AP_Florida_Flooding.jpg?auto=webp&crop=2499,1406,x0,y98&format=pjpg&width=1200",
-      "publishedAt": "2023-07-11T03:22:30Z",
-      "content": "Monday was another rough day for weather across the nation, as the Northeast saw yet more heavy, flooding rain, and tens of millions of Americans dealt with sweltering, dangerous heat.\r\nVermont was i… [+6190 chars]"
-    },
-    {
-      "source": { "id": "reuters", "name": "Reuters" },
-      "author": "Reuters",
-      "title": "China, Solomon Islands sign policing pact in upgrade of ties - Reuters",
-      "description": "China and the Solomon Islands on Monday signed a deal on police cooperation as part of an upgrade of their relations to a \"comprehensive strategic partnership\", four years after the Pacific nation switched ties from Taiwan to China.",
-      "url": "https://www.reuters.com/world/asia-pacific/china-solomon-islands-agree-strategic-partnership-2023-07-10/",
-      "urlToImage": "https://www.reuters.com/resizer/2WKBv2xnbMD6_QFfz583xFG5cY8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FSNHX6HAMZKE3PSKBEVWYJTADM.jpg",
-      "publishedAt": "2023-07-11T02:34:00Z",
-      "content": "BEIJING, July 10 (Reuters) - China and the Solomon Islands on Monday signed a deal on police cooperation as part of an upgrade of their relations to a \"comprehensive strategic partnership\", four year… [+4332 chars]"
-    },
-    {
-      "source": { "id": "fox-news", "name": "Fox News" },
-      "author": "Brandon Gillespie",
-      "title": "Republicans roll out new national voting law, warn Americans to watch out for Democrat deception - Fox News",
-      "description": "The House GOP introduced a new federal voting law aimed at securing election integrity across the country, but warned Democrats would try to deceive Americans about the bill.",
-      "url": "https://www.foxnews.com/politics/republicans-roll-out-new-national-voting-law-warn-americans-watch-out-democrat-deception",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Bryan-Steil.jpg",
-      "publishedAt": "2023-07-11T02:03:00Z",
-      "content": "ATLANTA House Republicans have introduced a bill aimed at securing election integrity across the country while also issuing a stark warning to Americans to watch out for possible Democrat deception s… [+4077 chars]"
-    },
-    {
-      "source": { "id": "cnn", "name": "CNN" },
-      "author": "Alli Rosenbloom, Chloe Melas",
-      "title": "Brad Pitt accused of ‘looting’ Chateau Miraval’s assets in new legal filing - CNN",
-      "description": "An ongoing legal dispute over a French estate and winery Brad Pitt and Angelina Jolie formerly owned together continues to escalate.",
-      "url": "https://www.cnn.com/2023/07/10/entertainment/brad-pitt-angelina-jolie-miraval-response/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004172839-pitt-jolie-split.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-07-11T01:37:00Z",
-      "content": "An ongoing legal dispute over a French estate and winery Brad Pitt and Angelina Jolie formerly owned together continues to escalate. \r\nIn a new court filing obtained by CNN, Jolies former investment … [+2652 chars]"
-    },
-    {
-      "source": { "id": "reuters", "name": "Reuters" },
-      "author": "David Morgan, Richard Cowan",
-      "title": "US House hardliners step up spending pressure as showdown looms - Reuters",
-      "description": "More than 20 U.S. House Republican hardliners warned Speaker Kevin McCarthy on Monday that they will try to block their party's fiscal 2024 appropriations bills unless spending levels are cut below levels that McCarthy and Democratic President Joe Biden agree…",
-      "url": "https://www.reuters.com/world/us/fresh-spending-showdown-looms-us-congress-returns-washington-2023-07-10/",
-      "urlToImage": "https://www.reuters.com/resizer/t6QC8K3o7lyVr0kM33FkQejAx4o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MLMWFU5SANMOPEL7233OGI7F2M.jpg",
-      "publishedAt": "2023-07-11T00:35:00Z",
-      "content": "WASHINGTON, July 10 (Reuters) - More than 20 U.S. House Republican hardliners warned Speaker Kevin McCarthy on Monday that they will try to block their party's fiscal 2024 appropriations bills unless… [+4657 chars]"
-    },
-    {
-      "source": { "id": "axios", "name": "Axios" },
-      "author": "Axios",
-      "title": "Phoenix temperatures remain high overnight as heat wave persists - Axios",
-      "description": null,
-      "url": "https://www.axios.com/local/phoenix/2023/07/10/overnight-temperatures-heat-wave-phoenix",
-      "urlToImage": null,
-      "publishedAt": "2023-07-10T23:19:46Z",
-      "content": null
-    },
-    {
-      "source": { "id": null, "name": "Universe Today" },
-      "author": "Matt Williams",
-      "title": "A Black Hole Switched On in the Blink of an Eye - Universe Today",
-      "description": "A new study describes how astronomers discovered a supermassive black hole that suddenly \"switched on\" and became",
-      "url": "https://www.universetoday.com/162326/a-black-hole-switched-on-in-the-blink-of-an-eye/",
-      "urlToImage": "https://www.universetoday.com/wp-content/uploads/2023/05/eso1644b.jpg",
-      "publishedAt": "2023-07-10T22:42:52Z",
-      "content": "In 2019, a team of astronomers led by Dr. Samantha Oates of the University of Birmingham discovered one of the most powerful transients ever seen – where astronomical objects change their brightness … [+6423 chars]"
-    },
-    {
-      "source": { "id": "business-insider", "name": "Business Insider" },
-      "author": "Brent D. Griffiths",
-      "title": "Jack Smith says Trump aide is trying to propose 'unnecessary' delay in docs case - Business Insider",
-      "description": "Nauta's lawyers argued that they can't both be present for the hearing. They did not propose a new date, which Smith said risks a lengthy delay.",
-      "url": "https://www.businessinsider.com/jack-smith-walt-nauta-delay-hearing-classified-documents-trump-2023-7",
-      "urlToImage": "https://i.insider.com/64ac76a78ed31300199e5de0?width=1200&format=jpeg",
-      "publishedAt": "2023-07-10T21:49:00Z",
-      "content": "Special counsel Jack Smith on Monday urged a federal judge to reject Trump aide Walt Nauta's efforts to further delay his case related to former President Donald Trump's handling of classified docume… [+1628 chars]"
-    },
-    {
-      "source": { "id": "fortune", "name": "Fortune" },
-      "author": "Will Daniel",
-      "title": "Corporate raider Carl Icahn recovers $1 billion in his fortune as loan deal with big banks alleviates short-seller assault - Fortune",
-      "description": "The billionaire investor Carl Icahn has been under assault from the short-seller Hindenburg Research, forcing him to renegotiate a key loan deal.",
-      "url": "https://fortune.com/2023/07/10/carl-icahn-hindenburg-loans-big-banks-1-billion-fortune/",
-      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/07/GettyImages-495511748-e1689018771471.jpg?resize=1200,600",
-      "publishedAt": "2023-07-10T21:37:50Z",
-      "content": "Carl Icahn has been under pressure since May, when the short-seller Hindenburg Research alleged that his publicly traded conglomerate, Icahn Enterprises (IEP), used a high but unsustainable dividend … [+2010 chars]"
-    }
+  "status" : "ok",
+  "totalResults": 36,
+  "articles" : [
+  {
+  "source": {
+  "id": "al-jazeera-english",
+  "name": "Al Jazeera English"
+  },
+  "author": "Al Jazeera",
+  "title": "More devices exploding across Lebanon: What’s happening? - Al Jazeera English",
+  "description": "A day after the explosion of thousands of pagers, the detonation of walkie-talkies and other devices kills 14 people.",
+  "url": "https://www.aljazeera.com/news/2024/9/18/more-devices-exploding-across-lebanon-whats-happening",
+  "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24262521209210-1726687336.jpg?resize=1920%2C1440",
+  "publishedAt": "2024-09-19T06:08:30Z",
+  "content": "One day after thousands of pagers exploded across Lebanon, more explosions of handheld devices, including walkie-talkie radios, mobile phones, laptops and even solar power cells, have killed at least… [+5945 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "KIRO Seattle"
+  },
+  "author": "Jason Sloss",
+  "title": "‘No meaningful progress’: Second full day of mediation ends between Boeing, union - KIRO Seattle",
+  "description": "As the strike of 33,000 union machinists continues, Boeing employees got the news they feared: layoffs are coming.",
+  "url": "https://www.kiro7.com/news/local/its-official-boeing-ceo-announces-temporary-layoffs-amid-strike/FGDNJGEDQ5E3RMVHE7EW3N7L6E/",
+  "urlToImage": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/SPXsJUvOp-dptz-xRQVdr5bZZqI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XKQXYC2UOBC2PGYLS5GJ4MYHU4.jpeg",
+  "publishedAt": "2024-09-19T05:06:00Z",
+  "content": "RENTON, Wash. — Boeing machinists are holding strong as the strike enters its sixth day, with mediation between the company and union showing no meaningful progress. \r\nDespite two full days of talks … [+3686 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "[Removed]"
+  },
+  "author": null,
+  "title": "[Removed]",
+  "description": "[Removed]",
+  "url": "https://removed.com",
+  "urlToImage": null,
+  "publishedAt": "2024-09-19T04:22:00Z",
+  "content": "[Removed]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "BBC News"
+  },
+  "author": null,
+  "title": "US says Iran sent Biden associates info from Trump hack - BBC.com",
+  "description": "US officials say the info was sent unsolicited and there is no evidence any recipients replied",
+  "url": "https://www.bbc.com/news/articles/cglk9kypn36o",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1878/live/a3450380-7613-11ef-9a85-d5dbec3e4638.jpg",
+  "publishedAt": "2024-09-19T04:09:51Z",
+  "content": "Iranian hackers distributed hacked information about Donald Trump's electoral campaign to people linked to the Biden campaign, according to the FBI and US intelligence agencies. \r\nUS officials now be… [+4342 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Ron Simon",
+  "title": "“He’s not God. He’s a loser”: Geoff Duncan reacts to Trump calling on GOP to shutdown government - CNN",
+  "description": "The House failed to pass a spending bill – flirting with a possible government shutdown if no deal is made by the end of the month",
+  "url": "https://www.cnn.com/2024/09/18/politics/video/hes-not-god-hes-a-loser-geoff-duncan-reacts-to-trump-calling-on-gop-to-shutdown-government",
+  "urlToImage": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/15402601-64136214-generated-thumbnail.jpg?c=16x9&q=w_800,c_fill",
+  "publishedAt": "2024-09-19T03:51:00Z",
+  "content": "The House failed to pass a spending bill flirting with a possible government shutdown if no deal is made by the end of the month. Its something Donald Trump advocated for. Panelist Geoff Duncan says,… [+163 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "[Removed]"
+  },
+  "author": null,
+  "title": "[Removed]",
+  "description": "[Removed]",
+  "url": "https://removed.com",
+  "urlToImage": null,
+  "publishedAt": "2024-09-19T03:13:00Z",
+  "content": "[Removed]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "KABC-TV"
+  },
+  "author": "Bill Hutchinson and Ivan Pereira, ABC News",
+  "title": "Body discovered near site of Kentucky interstate shooting, believed to be shooter, police say - ABC7 Los Angeles",
+  "description": "Investigators hunting for the suspect in an interstate shooting said Wednesday that they had found a body near the location where the incident took place.",
+  "url": "https://abc7.com/post/kentucky-interstate-shooter-body-found-police-say-five-killed-search-over/15316115/",
+  "urlToImage": "https://cdn.abcotvs.com/dip/images/15323170_091824-wls-kentucky-shooter-body-10vo-vid.jpg?w=1600",
+  "publishedAt": "2024-09-19T01:52:30Z",
+  "content": "Kentucky State Police officials announced Wednesday, the 12th day of a manhunt for a suspect wanted in connection with an interstate shooting that wounded five people, that they discovered a body not… [+2445 chars]"
+  },
+  {
+  "source": {
+  "id": "cbs-news",
+  "name": "CBS News"
+  },
+  "author": "Cara Tabachnick",
+  "title": "Sean \"Diddy\" Combs at same Brooklyn detention center that held R. Kelly, Sam Bankman-Fried, other high-profile inmates - CBS News",
+  "description": "Sean \"Diddy\" Combs was denied bail a second time on Wednesday and he will remain in federal custody at a Brooklyn detention center.",
+  "url": "https://www.cbsnews.com/news/sean-diddy-combs-jailed-mdc-brooklyn-r-kelly-sam-bankman-fried/",
+  "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/09/17/0f5367c3-48e2-4905-a547-1441f1d6a502/thumbnail/1200x630/ada8b40dc4d7a50263e05e47a9d69baf/cbsn-fusion-sean-diddy-combs-arrested-by-federal-agents-thumbnail.jpg?v=1736e554a81339b452bb43c01c071a51",
+  "publishedAt": "2024-09-19T01:12:03Z",
+  "content": "A second judge refused to grant bail to Sean \"Diddy\" Combs on Wednesday and he could remain in federal custody at a Brooklyn detention center until his trial for sex trafficking charges. Combs joins … [+3603 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Jason Owens",
+  "title": "Marshawn Lynch, Eli Manning, Adam Vinatieri among 16 first-time nominees for Pro Football Hall of Fame - Yahoo Sports",
+  "description": "Let's take a look at the résumés of some of the notable players nominated for the first time.",
+  "url": "https://sports.yahoo.com/marshawn-lynch-eli-manning-adam-vinatieri-among-16-first-time-nominees-for-pro-football-hall-of-fame-010521167.html",
+  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bZ__nBvFrahAFCwVhCkvig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-images/2019-12/beef33d0-2609-11ea-9f8f-249fddd8c78a",
+  "publishedAt": "2024-09-19T01:05:00Z",
+  "content": "The Pro Football Hall of Fame announced 167 modern-era nominees for the 2025 induction class on Wednesday, including 16 first-timers. Among the first-time nominees are running back Marshawn Lynch, qu… [+4769 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "BBC News"
+  },
+  "author": null,
+  "title": "Harvey Weinstein pleads not guilty to new sexual assault charge - BBC.com",
+  "description": "The fresh charge relates to the alleged sexual assault of a woman in a Manhattan hotel in 2006.",
+  "url": "https://www.bbc.com/news/articles/c20p5rz21pro",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/674a/live/60690e70-7600-11ef-b85d-05db734995da.jpg",
+  "publishedAt": "2024-09-19T00:53:08Z",
+  "content": "Disgraced Hollywood producer Harvey Weinstein has pleaded not guilty to committing a criminal sexual act in a New York court.\r\nThe 72-year-old is facing a new charge over the alleged sexual assault o… [+1289 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Action Network"
+  },
+  "author": "Sean Koerner",
+  "title": "Patriots vs. Jets Prediction, Pick, Odds, How To Watch Thursday Night Football - The Action Network",
+  "description": "The New England Patriots (1-1) face the New York Jets (1-1) on Thursday Night Football to kick off NFL Week 3. Kickoff is set for 8:15 p.m. ET",
+  "url": "https://www.actionnetwork.com/nfl/new-england-patriots-vs-new-york-jets-prediction-pick-odds-nfl-thursday-night-football-september-19",
+  "urlToImage": "https://images.actionnetwork.com/blog/2024/09/NFL-Wk3-TNF-GG-NEvsNYJ.jpg",
+  "publishedAt": "2024-09-19T00:16:00Z",
+  "content": "The New England Patriots (1-1) face the New York Jets (1-1) on Thursday Night Football to kick off NFL Week 3. Kickoff is set for 8:15 p.m. ET from MetLife Stadium in East Rutherford, N.J. The Jets a… [+5600 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "WABC-TV"
+  },
+  "author": "Lindsay Tuchman, Eyewitness News",
+  "title": "Donald Trump rally: Big crowds, security tight for former president's rally in Uniondale, New York - ABC7 New York",
+  "description": "Former President Donald Trump is addressing a packed crowd inside Nassau Coliseum for a campaign rally Wednesday night.",
+  "url": "https://abc7ny.com/post/donald-trump-rally-tight-security-measures-being-taken-day-nassau-county-event-uniondale/15319335/",
+  "urlToImage": "https://cdn.abcotvs.com/dip/images/15322205_091824-wabc-trump-better-img.jpg?w=1600",
+  "publishedAt": "2024-09-18T23:48:45Z",
+  "content": "NASSAU COUNTY, Long Island (WABC) -- Former President Donald Trump is addressing a packed crowd inside Nassau Coliseum for a campaign rally Wednesday night.\r\nThe big rally comes just days after the s… [+2395 chars]"
+  },
+  {
+  "source": {
+  "id": "fox-news",
+  "name": "Fox News"
+  },
+  "author": "Sarah Rumpf-Whitten",
+  "title": "Tourist, 30, dies after losing her leg in shark attack off Canary Islands - Fox News",
+  "description": "A 30-year-old tourist from Germany visiting the Canary Islands died after she was attacked by a shark while swimming next to her catamaran.",
+  "url": "https://www.foxnews.com/world/tourist-30-dies-after-losing-her-leg-shark-attack-off-canary-islands",
+  "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/great-white.jpg",
+  "publishedAt": "2024-09-18T22:58:00Z",
+  "content": "A German tourist died from a rare shark attack near the Canary Islands while she was swimming alongside her catamaran off the northwest coast of the popular travel destination. \r\nThe unidentified 30-… [+1276 chars]"
+  },
+  {
+  "source": {
+  "id": "politico",
+  "name": "Politico"
+  },
+  "author": "POLITICO",
+  "title": "Trump is giving away the store on taxes - POLITICO",
+  "description": null,
+  "url": "https://www.politico.com/news/2024/09/18/trump-tax-giveways-00179833",
+  "urlToImage": null,
+  "publishedAt": "2024-09-18T22:45:24Z",
+  "content": null
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Financial Times"
+  },
+  "author": null,
+  "title": "Teamsters withhold endorsement as poll shows members favour Donald Trump - Financial Times",
+  "description": null,
+  "url": "https://www.ft.com/content/d198b47b-f785-49a2-abd2-bab1ebd3fba9",
+  "urlToImage": null,
+  "publishedAt": "2024-09-18T22:25:09Z",
+  "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+  },
+  {
+  "source": {
+  "id": "the-washington-post",
+  "name": "The Washington Post"
+  },
+  "author": "Ben Strauss",
+  "title": "Prominent NBA reporter Adrian Wojnarowski announces retirement from ESPN - The Washington Post",
+  "description": "Wojnarowski, famous for his frequent scoops known as “Woj Bombs,” is leaving ESPN to take a job in the athletic department at St. Bonaventure University, his alma mater.",
+  "url": "https://www.washingtonpost.com/sports/2024/09/18/adrian-wojnarowski-woj-retires-from-espn/",
+  "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2G4LAVCJEOUZMMULG6YCEBZC6Y_size-normalized.JPG&w=1440",
+  "publishedAt": "2024-09-18T22:14:54Z",
+  "content": "Prominent NBA reporter Adrian Wojnarowski is retiring from ESPN, he announced Wednesday, to take a job in the athletic department at his alma mater, St. Bonaventure University.\r\nWojnarowski, 55, reac… [+4010 chars]"
+  },
+  {
+  "source": {
+  "id": "associated-press",
+  "name": "Associated Press"
+  },
+  "author": "DIANE JEANTET, MARINE LESPRIT",
+  "title": "Lawyers question whether a drugged French woman was truly unconscious during alleged rapes - The Associated Press",
+  "description": "Lawyers for some of the men accused of raping an unconscious French woman who had been drugged by her husband have asked her about her habits, personality and sex life, and even questioned whether she was truly unconscious during the encounters. Gisèle Pelico…",
+  "url": "https://apnews.com/article/pelicot-france-rape-trial-5033d9a6d00630f00592018eccc9236c",
+  "urlToImage": "https://dims.apnews.com/dims4/default/1e6e9d8/2147483647/strip/true/crop/6000x3375+0+430/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2Fef%2F1c0687298e3f59306930343f19b7%2Ff9de4926b3f04cf88e80e305f73aef08",
+  "publishedAt": "2024-09-18T22:09:00Z",
+  "content": "AVIGNON, France (AP) Lawyers for some of the men accused of raping an unconscious French woman who had been drugged by her husband questioned her Wednesday about her habits, personal life and sex lif… [+3695 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Salon"
+  },
+  "author": null,
+  "title": "Superbugs predicted to kill 39 million people by 2050, study finds - Salon",
+  "description": "New research in The Lancet underscores our growing antibiotic resistance crisis",
+  "url": "https://www.salon.com/2024/09/18/superbugs-predicted-to-39-million-people-by-2050-study-finds/",
+  "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/09/iv_drip_patient_doctor_hospital_1832021935.jpg",
+  "publishedAt": "2024-09-18T22:06:00Z",
+  "content": null
+  },
+  {
+  "source": {
+  "id": "the-wall-street-journal",
+  "name": "The Wall Street Journal"
+  },
+  "author": "Nick Timiraos",
+  "title": "Fed Cuts Rates by Half Percentage Point - The Wall Street Journal",
+  "description": "Officials are hoping to prevent a gradual cooling in the labor market from turning into a deeper freeze",
+  "url": "https://www.wsj.com/economy/central-banking/fed-cuts-rates-by-half-percentage-point-03566d82",
+  "urlToImage": "https://images.wsj.net/im-84326032/social",
+  "publishedAt": "2024-09-18T22:03:00Z",
+  "content": "The Federal Reserve voted to lower interest rates by a half-percentage point, opting for a bolder start in making its first reduction since 2020. The long-anticipated pivot followed an \r\nall-out figh… [+473 chars]"
+  },
+  {
+  "source": {
+  "id": "fox-news",
+  "name": "Fox News"
+  },
+  "author": "Dana Blanton",
+  "title": "Fox News Poll: Harris tops Trump by two points - Fox News",
+  "description": "Vice President Kamala Harris edges former President Trump in a head-to-head matchup, as more voters see Harris as the candidate who will help the middle class.",
+  "url": "https://www.foxnews.com/official-polls/fox-news-poll-harris-tops-trump-two-points",
+  "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/Trump-Harris.jpg",
+  "publishedAt": "2024-09-18T22:00:00Z",
+  "content": "Vice President Kamala Harris edges former President Trump in a head-to-head matchup, as more voters see Harris as the candidate who will help the middle class, and Hispanics and independents swing in… [+10251 chars]"
+  }
   ]
 }
